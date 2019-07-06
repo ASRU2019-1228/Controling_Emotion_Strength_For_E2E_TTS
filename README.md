@@ -1,1 +1,1 @@
-# Controling_Emotion_Strength_TTS
+# Controlling Emotion Strength with Relative Attribute for End-to-End Speech Synthesis
